@@ -1,9 +1,0 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<svg width='400' height='300' viewBox='0 0 400 300' xmlns='http://www.w3.org/2000/svg'>
-<text x='20' y='20' font-family='Arial' font-size='14' fill='black'>2</text>
-<rect x='50' y='0' width='60' height='30' stroke='steelblue' fill='#4A90D9'/>
-<text x='20' y='55' font-family='Arial' font-size='14' fill='black'>5</text>
-<rect x='50' y='35' width='150' height='30' stroke='steelblue' fill='#4A90D9'/>
-<text x='20' y='90' font-family='Arial' font-size='14' fill='black'>3</text>
-<rect x='50' y='70' width='90' height='30' stroke='steelblue' fill='#4A90D9'/>
-</svg>
